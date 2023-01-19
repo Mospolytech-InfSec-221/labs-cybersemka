@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿#include <iostream>
+=======
+#include <iostream>
+>>>>>>> 7ee9c141c9f4a2a33473a0277bf29f787bd163db
 #include <string>
 #include <vector>
 
